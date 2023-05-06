@@ -82,7 +82,7 @@ const Contacto = () => {
               onChange={(e) => setEmail(e.target.value)}
             />
           </div>
-          <button type="submit">Guardar</button>
+          <button type="submit">Quiero reservar</button>
         </form>
       </div>
     </div>
