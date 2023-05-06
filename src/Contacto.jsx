@@ -25,7 +25,7 @@ const Contacto = () => {
           rut,
           telefono
         });
-        alert("se envio el mensaje")
+        alert("Un ejecutivo se contactara para terminar la reserva")
         console.log('Documento creado con ID: ', docRef.id);
         setNombre('');
         setEmail('');
